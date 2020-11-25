@@ -1,0 +1,24 @@
+body {
+    padding: 20px;
+}
+h1 {
+  text-align: center;
+  padding-bottom: 20px;
+  color: #3077b4;
+}
+td, th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+tr:nth-child(even){background-color: #f2f2f2;}
+
+tr:hover {background-color: #ddd;}
+
+th {
+  padding-top: 13px;
+  padding-bottom: 13px;
+  text-align: left;
+  background-color: #3077b4;
+  color: white;
+}
